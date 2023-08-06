@@ -2,7 +2,7 @@
 ![Nestedcpa](https://github.com/langnatalie/CPA/assets/55830582/0263b1d5-1156-44c5-bb03-2f4fa5a26e30)
 ## Introduction
 In this work we propose a method for Compressed Private Aggregation for Scalable Federated Learning over Massive Networks (CPA), which allows large-scale deployments to simultaneously communicate at extremely low bit-rates while achieving privacy, anonymity, and resilience to malicious users. Please refer to our 
-[paper]([https://github.com/langnatalie/CPA/files/10206979/CPA.pdf](https://arxiv.org/abs/2308.00540)) for more details.
+[paper](https://arxiv.org/abs/2308.00540) for more details.
 
 
 ## Usage
